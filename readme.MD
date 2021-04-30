@@ -1,6 +1,14 @@
 # Tugas 2 (REST API) RPLBK Kelompok 2
 
-## Cara pakai
+## Anggota Kelompok
+- Bagaskara Muhammad Noer   **(21120117140006)**
+- Afrina Ayu Insani         **(21120118120006)**
+- Bernita Febrihatin        **(21120118120023)**
+- Zolan Devi Khoirunnisa    **(21120118130048)**
+- Muhammad Riziq Yahya      **(21120118130058)**
+- Muhammad Syahrizal Fauzi  **(21120118130066)**
+
+## Cara Pakai
 1. Clone repo ini di **xampp/htdocs** atau download lalu copy folder **api** ke **xampp/htdocs/rplbk-tugas2**.
 2. Pastikan database sudah ada & tabel-tabel sudah ada (bisa diambil dari link tutorialnya).
 3. Hidupkan Apache & MySQL di XAMPP.
